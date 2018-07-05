@@ -29,6 +29,5 @@ public:
             temp1=temp1->next;
         }
         return false;
-        //Ignore this comment
     }
 };
